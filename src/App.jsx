@@ -4,7 +4,7 @@ import Footer from './components/Footer'
 import Home from './pages/Home'
 import Courses from './pages/Courses'
 import Contact from './pages/Contact'
-import './app.css'
+import './App.css'
 import Alumni from './pages/Alumni'
 function App() {
   return (
